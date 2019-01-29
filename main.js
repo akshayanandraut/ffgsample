@@ -8,3 +8,4 @@ app
 .get('/', function (req, res) {
          res.render("login")  
 })
+.listen(PORT, () => console.log(`Listening on ${PORT}`));
