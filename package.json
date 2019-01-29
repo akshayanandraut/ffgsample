@@ -1,0 +1,31 @@
+{
+  "name": "ffgsample",
+  "version": "1.0.0",
+  "description": "ffgsample application",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "ejs": "2.6.1",
+    "express": "4.16.4",
+    "zero-fill": "2.2.3",
+    "mongodb": "3.1.10",
+    "body-parser": "1.18.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshayanandraut/ffgsample.git"
+  },
+  "keywords": [
+ 
+
+
+  ],
+  "author": "Akshyanand Raut",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/akshayanandraut/ffgsample/issues"
+  },
+  "homepage": "https://github.com/akshayanandraut/ffgsample#readme"
+}
